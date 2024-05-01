@@ -1,4 +1,4 @@
-//Immediately Invocked Function Exxpression
+//Immediately Invocked Function Expression
 
 (function chai(){
      //named iife 
